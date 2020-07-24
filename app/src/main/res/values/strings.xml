@@ -2,4 +2,6 @@
     <string name="app_name">SharedPreference</string>
     <string name="activity_btn">Click me!</string>
     <string name="edit_hint">value</string>
+    <string name="shared_file_id">com.thoughtworks.sharedpreference.PREFERENCE_FILE_KEY</string>
+    <string name="edit_key">editValue</string>
 </resources>
